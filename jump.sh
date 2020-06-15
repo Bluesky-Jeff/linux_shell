@@ -4,6 +4,7 @@
 # Version: 0.0.1
 # 
 # 跳板机主脚本
+# v1.0.0
 
 . /etc/profile
 
